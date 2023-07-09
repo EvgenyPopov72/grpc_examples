@@ -1,0 +1,2 @@
+grpcio
+-e git+https://github.com/EvgenyPopov72/grpc-services.git@main#subdirectory=grpc_py&egg=grpc_hub
